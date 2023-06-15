@@ -8,3 +8,6 @@ Write a script that compiles a C file but does not link.
 
 [2-assembler](2-assembler)
 Write a script that generates the assembly code of a C code and save it in an output file.
+
+[3-name](3-name)
+Write a script that compiles a C file and creates an executable named
